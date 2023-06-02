@@ -6,7 +6,7 @@
 
     --fonte-principal: "Inter";
 
-    --botao-azul-efeito:#3c92fa;
+    --botao-azul-efeito:#fa3cc1;
 }
 body{
 background-color: var(--cor-de-fundo);
